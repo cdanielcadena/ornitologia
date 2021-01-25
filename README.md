@@ -23,7 +23,7 @@
 ## Contenido
 
 ### Semana 1, Enero 26-27
-### Introducción, Contribuciones de la Ornitología a la Biología
+**Introducción, Contribuciones de la Ornitología a la Biología**
 
 Lecturas:
 
@@ -44,7 +44,7 @@ Lecturas:
 ### Semana 7, Marzo 9-10
 
 ### Semana 8, Marzo 16-17
-### Discusión Sobre Proyectos de Investigación
+**Discusión Sobre Proyectos de Investigación**
 
 ### Marzo 23-24: Semana Santa
 
