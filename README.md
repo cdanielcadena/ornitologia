@@ -1,4 +1,4 @@
-c# Ornitología
+# Ornitología
 ## Aves como Modelos en Ecología, Evolución y Conservación
     
     Curso Virtual, Universidad de los Andes 2021-10
