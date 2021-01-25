@@ -20,10 +20,14 @@
 
 -	Capacidad de divulgar información científica para un público amplio mediante herramientas audiovisuales.
 
-## Instrucciones para los estudiantes
+## Contenido
 
-### Antes de comenzar
+### Semana 1, Enero 26-27: Introducción, Contribuciones de la Ornitología a la Biología
 
-Los estudiantes de UniAndes inscritos en este curso ya han tomado ocho semanas de introducción a la evolución. El material que desarrollaremos de ahora en adelante construye sobre esa base e introduce conceptos que estaban programados para fases más avanzadas del curso. Si bien personas externas no tuvieron acceso a las ocho semanas previas y no podrán participar de las clases virtuales pues éstas se impartirán a través de la plataforma cerrada de la universidad, he decidido dar libre acceso a todo el material para que a quien le interese la información pueda conocerla. Para facilidad de compartirlas, las presentaciones de las clases en este sitio estarán disponibles en un formato de baja resolución que espero sea suficiente para poder comprenderlas. Debo aclarar que no soy experto en detalles de este tema complejo, de forma que seguramente cometeré errores e imprecisiones. Los invito a enviarme correcciones y sugerencias para construir colectivamente un recurso valioso de información.
+Lecturas:
+
+- [Mayr (1984).  The contributions of ornithology to biology](https://academic.oup.com/bioscience/article-abstract/34/4/250/222808)
+- [Konishi et al. (1989). Contributions of bird studies to biology](https://science.sciencemag.org/content/246/4929/465)
+
 
 ### Martes 24 de marzo
