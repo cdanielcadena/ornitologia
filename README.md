@@ -23,7 +23,7 @@
 ## Contenido
 
 ### Semana 1, Enero 26-27 
-**Introducción, Contribuciones de la Ornitología a la Biología**
+**Introducción al curso, Contribuciones de la Ornitología a la Biología**
 
 Lecturas:
 
