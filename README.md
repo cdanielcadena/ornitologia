@@ -1,4 +1,4 @@
-# Ornitología
+c# Ornitología
 ## Aves como Modelos en Ecología, Evolución y Conservación
     
     Curso Virtual, Universidad de los Andes 2021-10
@@ -8,17 +8,17 @@
           
 ## Objetivos de aprendizaje
 
--	Comprender cómo los análisis filogenéticos pueden emplearse para monitorear la expansión de una enfermedad infecciosa emergente.
+-	Apreciar y aprovechar el valor de las aves como modelos de estudio en ecología, evolución y conservación.
 
--	Usando como estudio de caso la pandemia de COVID-19, conocer cómo conceptos fundamentales en evolución pueden aplicarse a un problema de salud pública con importantes implicaciones para la sociedad.
+-	Usando como base la literatura científica ornitológica, conocer las bases teóricas y aplicaciones empíricas asociadas con conceptos fundamentales en las ciencias biológicas modernas.
 
 ## Competencias a desarrollar
 
--	Habilidad para hacer inferencias .
+-	Habilidad para conseguir, leer, interpretar críticamente y discutir literatura científica.
 
--	Destreza en la aplicación correcta de conceptos evolutivos para el estudio de un problema de salud pública.
+-	Destreza para reconocer, plantear y resolver problemas de investgicación siguiendo el método científico.
 
--	Capacidad de divulgar información científica para un público amplio mediante herramientas audiovisuales.
+-	Capacidad de divulgar información científica para diversos públicos mediante herramientas audiovisuales.
 
 ## Contenido
 
