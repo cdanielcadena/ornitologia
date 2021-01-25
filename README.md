@@ -4,8 +4,9 @@
     Curso Virtual, Universidad de los Andes 2021-10
     Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)   
     Horario: martes y miércoles, 3:30-4:45 pm
-![](andes.png)
-          
+
+<img src='https://github.com/cdanielcadena/evolucion/blob/master/andes.png'>
+
 ## Objetivos
 
 -	Apreciar y aprovechar el valor de las aves como modelos de estudio en ecología, evolución y conservación.
