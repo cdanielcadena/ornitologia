@@ -31,4 +31,40 @@ Lecturas:
 - [Konishi et al. (1989). Contributions of bird studies to biology](https://science.sciencemag.org/content/246/4929/465)
 
 
-### Martes 24 de marzo
+### Semana 2, Febrero 2-3
+
+### Semana 3, Febrero 9-10
+
+### Semana 4, Febrero 16-17
+
+### Semana 5, Febrero 23-24
+
+### Semana 6, Marzo 2-3
+
+### Semana 7, Marzo 9-10
+
+### Semana 8, Marzo 16-17
+
+### Marzo 23-24: Semana Santa
+
+### Marzo 30-31: Semana de Receso
+
+### Semana 9, Abril 6-7
+
+### Semana 10, Abril 13-14
+
+### Semana 11, Abril 20-21
+
+### Semana 12, Abril 27-28
+
+### Semana 13, Mayo 4-5
+
+### Semana 14, Mayo 11-12
+
+### Semana 15, Mayo 18-19
+
+### Semana 16, Mayo 25-26
+### Presentaciones de Proyectos de Investigación
+
+
+
