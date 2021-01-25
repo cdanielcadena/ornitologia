@@ -14,7 +14,7 @@
 
 ## Competencias a desarrollar
 
--	Habilidad para hacer inferencias biogeográficas y evolutivas a partir de árboles filogenéticos.
+-	Habilidad para hacer inferencias .
 
 -	Destreza en la aplicación correcta de conceptos evolutivos para el estudio de un problema de salud pública.
 
