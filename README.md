@@ -9,7 +9,7 @@
 
 ## Objetivos
 
--	Apreciar y aprovechar el valor de las aves como modelos de estudio en ecología, evolución y conservación.
+-	Apreciar a las aves como modelos de estudio en múltiples áreas de conocimiento en ecología, evolución y conservación.
 
 -	Usando como base la literatura científica ornitológica, conocer las bases teóricas y aplicaciones empíricas asociadas con conceptos fundamentales en las ciencias biológicas modernas.
 
