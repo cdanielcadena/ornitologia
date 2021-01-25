@@ -5,13 +5,7 @@
     Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)   
     Horario: martes, miércoles y jueves, 3:30-4:45 pm
 ![](andes.png)
-       
-# La Teoría Evolutiva Aplicada a Comprender una Pandemia: el Caso de COVID-19
-
-![](nextstrain.png)
-
-Distribución geográfica y filogenia de basada en genomas del corononavirus SARS-CoV-2, causante de la pandemia de COVID-19. Imagen tomada el 23 de marzo de 2020 del proyecto [Nexstrain](https://nextstrain.org/).
-    
+          
 ## Objetivos de aprendizaje
 
 -	Comprender cómo los análisis filogenéticos pueden emplearse para monitorear la expansión de una enfermedad infecciosa emergente.
