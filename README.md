@@ -6,7 +6,7 @@
     Horario: martes y miércoles, 3:30-4:45 pm
 ![](andes.png)
           
-## Objetivos de aprendizaje
+## Objetivos
 
 -	Apreciar y aprovechar el valor de las aves como modelos de estudio en ecología, evolución y conservación.
 
@@ -19,6 +19,8 @@
 -	Destreza para reconocer, plantear y resolver problemas de investgicación siguiendo el método científico.
 
 -	Capacidad de divulgar información científica para diversos públicos mediante herramientas audiovisuales.
+
+## Metodología
 
 ## Contenido
 
@@ -67,5 +69,5 @@ Lecturas:
 ### Semana 16, Mayo 25-26
 **Presentaciones de Proyectos de Investigación**
 
-
+## Criterios de Evaluación
 
