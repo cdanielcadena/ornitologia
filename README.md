@@ -3,7 +3,7 @@
     
     Curso Virtual, Universidad de los Andes 2021-10
     Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)   
-    Horario: martes, miércoles y jueves, 3:30-4:45 pm
+    Horario: martes y miércoles, 3:30-4:45 pm
 ![](andes.png)
           
 ## Objetivos de aprendizaje
