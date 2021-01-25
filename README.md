@@ -1,9 +1,8 @@
 <img src='https://github.com/cdanielcadena/evolucion/blob/master/andes.png'>
-
 # Ornitología
 ## Aves como Modelos en Ecología, Evolución y Conservación
     
-    Curso Virtual, Universidad de los Andes 2021-10
+    Departamento de Ciencias Biológicas, Universidad de los Andes 2021-10
     Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)   
     Horario: martes y miércoles, 3:30-4:45 pm
 
