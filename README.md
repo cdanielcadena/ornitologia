@@ -44,7 +44,7 @@ Lecturas:
 ### Semana 7, Marzo 9-10
 
 ### Semana 8, Marzo 16-17
-**Discusión Sobre Proyectos de Investigación**
+**Discusión sobre Proyectos de Investigación**
 
 ### Marzo 23-24: Semana Santa
 
@@ -65,7 +65,7 @@ Lecturas:
 ### Semana 15, Mayo 18-19
 
 ### Semana 16, Mayo 25-26
-### Presentaciones de Proyectos de Investigación
+**Presentaciones de Proyectos de Investigación**
 
 
 
