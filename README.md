@@ -44,6 +44,7 @@ Lecturas:
 ### Semana 7, Marzo 9-10
 
 ### Semana 8, Marzo 16-17
+### Discusión Sobre Proyectos de Investigación
 
 ### Marzo 23-24: Semana Santa
 
