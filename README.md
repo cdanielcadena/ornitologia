@@ -6,12 +6,15 @@
     Departamento de Ciencias Biológicas, Universidad de los Andes 2021-10
     Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)   
     Horario: martes y miércoles, 3:30-4:45 pm
+    https://uniandes-edu-co.zoom.us/j/93627990252
 
 ## Objetivos
 
 -	Apreciar a las aves como modelos de estudio en múltiples áreas de conocimiento en ecología, evolución y conservación.
 
 -	Usando como base la literatura científica ornitológica, conocer las bases teóricas y aplicaciones empíricas asociadas con conceptos fundamentales en las ciencias biológicas modernas.
+
+- Conocer y aplicar algunas de las herramientas empleadas para hacer investigación científica en ornitología a través de trabajo en grupo e independiente.
 
 ## Competencias a desarrollar
 
