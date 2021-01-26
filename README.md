@@ -71,7 +71,8 @@ Lecturas:
 ### Semana 15, Mayo 18-19
 
 Biología de la Conservación
-Ornitólogo Invitado: [Dr. Peter Marra](http://marralab.com/), Georgetown University
+
+Ornitólogo Invitado: [Dr. Peter Marra](http://marralab.com/), Georgetown University.
 
 ### Semana 16, Mayo 25-26
 **Presentaciones de Proyectos de Investigación**
