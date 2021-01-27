@@ -34,8 +34,14 @@ Lecturas:
 - [Mayr (1984).  The contributions of ornithology to biology](https://academic.oup.com/bioscience/article-abstract/34/4/250/222808)
 - [Konishi et al. (1989). Contributions of bird studies to biology](https://science.sciencemag.org/content/246/4929/465)
 
-
 ### Semana 2, Febrero 2-3
+**El Presente y Futuro de un Punto Caliente de Biodiversidad Tropical - Investigación en Ornitología en UniAndes como Ejemplo del Potencial del Estudio de las Aves**
+
+Lecturas:
+
+- [Gómez-Bahamón et al. (2020). Speciation associated with shifts in migratory behavior in an avian radiation (https://www.sciencedirect.com/science/article/abs/pii/S0960982220301081)
+
+- []
 
 ### Semana 3, Febrero 9-10
 
