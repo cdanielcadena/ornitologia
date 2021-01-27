@@ -24,8 +24,6 @@
 
 -	Capacidad de divulgar información científica para diversos públicos mediante herramientas audiovisuales.
 
-## Metodología
-
 ## Contenido
 
 ### Semana 1, Enero 26-27 
@@ -76,6 +74,8 @@ Ornitólogo Invitado: [Dr. Peter Marra](http://marralab.com/), Georgetown Univer
 
 ### Semana 16, Mayo 25-26
 **Presentaciones de Proyectos de Investigación**
+
+## Metodología
 
 ## Criterios de Evaluación
 
