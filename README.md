@@ -83,7 +83,7 @@ Ornitóloga Invitada: [Dr. Mary Caswell Stoddard](https://www.marycstoddard.com/
 
 ### Semana 11, Abril 20-21
 
-**Especiación*
+**Especiación**
 
 Ornitólogos Invitados: [Dr. Peter Grant](https://eeb.princeton.edu/people/peter-grant) & [Dr. Rosemary Grant](https://eeb.princeton.edu/people/b-rosemary-grant), Princeton University.
 
