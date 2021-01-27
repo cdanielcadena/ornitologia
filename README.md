@@ -53,8 +53,8 @@ Lecturas:
 
 Lecturas:
 
-- [Gómez-Bahamón et al. (2020). Speciation associated with shifts in migratory behavior in an avian radiation](https://www.sciencedirect.com/science/article/abs/pii/S0960982220301081)
 - [Cadena et al. (2019) Extreme genetic structure and dynamic range evolution in a montane passerine bird: implications for tropical diversification](https://academic.oup.com/biolinnean/article/126/3/487/5306478?guestAccessKey=5a96577b-0dcd-4fca-aaf8-71eebf7ab174)
+- [Gómez-Bahamón et al. (2020). Speciation associated with shifts in migratory behavior in an avian radiation](https://www.sciencedirect.com/science/article/abs/pii/S0960982220301081)
 
 ### Semana 3, Febrero 9-10
 
