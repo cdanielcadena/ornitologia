@@ -62,6 +62,10 @@ Lecturas:
 
 ### Semana 5, Febrero 23-24
 
+**Ecología Sensorial y Evolución**
+
+Ornitóloga Invitada: [Dr. Mary Caswell Stoddard](https://www.marycstoddard.com/), Princeton University.
+
 ### Semana 6, Marzo 2-3
 
 ### Semana 7, Marzo 9-10
@@ -79,6 +83,10 @@ Lecturas:
 
 ### Semana 11, Abril 20-21
 
+**Especiación*
+
+Ornitólogos Invitados: [Dr. Peter Grant](https://eeb.princeton.edu/people/peter-grant) & [Dr. Rosemary Grant](https://eeb.princeton.edu/people/b-rosemary-grant), Princeton University.
+
 ### Semana 12, Abril 27-28
 
 ### Semana 13, Mayo 4-5
@@ -87,7 +95,7 @@ Lecturas:
 
 ### Semana 15, Mayo 18-19
 
-Biología de la Conservación
+**Biología de la Conservación**
 
 Ornitólogo Invitado: [Dr. Peter Marra](http://marralab.com/), Georgetown University.
 
