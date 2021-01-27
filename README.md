@@ -24,6 +24,20 @@
 
 -	Capacidad de divulgar información científica para diversos públicos mediante herramientas audiovisuales.
 
+## Metodología
+
+Típicamente, cada semana tendremos una clase magistral en la que el profesor introducirá el tema asignado y una clase complementaria que será dedicada a sesiones de discusión, visitas interactivas con investigadores invitados o a presentaciones de estudiantes. Se espera que los estudiantes lean de forma permanente el material asignado y que semanalmente vengan preparados para cada una de las sesiones de aprendizaje activo según instrucciones que serán entregadas oportunamente. Además, los estudiantes completarán algunos talleres de manera independiente y a lo largo del semestre deberán desarrollar un proyecto de investigación en grupo cuyos avances serán presentados en diferentes etapas.
+
+## Criterios de Evaluación
+
+El curso no tendrá exámenes tradicionales y evaluaremos de la siguiente forma:
+
+- Comprobaciones de Lectura, Participación en Foros de Discusión (30%) 
+- Propuesta de Investigación de Proyecto (10%)
+- Ejercicio de Crítica de Propuestas de Investigación (5%)
+- Talleres/Tareas (30%)
+- Proyecto de Investigación (25%)
+
 ## Contenido
 
 ### Semana 1, Enero 26-27 
@@ -79,18 +93,3 @@ Ornitólogo Invitado: [Dr. Peter Marra](http://marralab.com/), Georgetown Univer
 
 ### Semana 16, Mayo 25-26
 **Presentaciones de Proyectos de Investigación**
-
-## Metodología
-
-Típicamente, cada semana tendremos una clase magistral en la que el profesor introducirá el tema asignado y una clase complementaria que será dedicada a sesiones de discusión, visitas interactivas con investigadores invitados o a presentaciones de estudiantes. Se espera que los estudiantes lean de forma permanente el material asignado y que semanalmente vengan preparados para cada una de las sesiones de aprendizaje activo según instrucciones que serán entregadas oportunamente. Además, los estudiantes completarán algunos talleres de manera independiente y a lo largo del semestre deberán desarrollar un proyecto de investigación en grupo cuyos avances serán presentados en diferentes etapas.
-
-## Criterios de Evaluación
-
-El curso no tendrá exámenes tradicionales y evaluaremos de la siguiente forma:
-
-- Comprobaciones de Lectura, Participación en Foros de Discusión (30%) 
-- Propuesta de Investigación de Proyecto (10%)
-- Ejercicio de Crítica de Propuestas de Investigación (5%)
-- Talleres/Tareas (30%)
-- Proyecto de Investigación (25%)
- 
