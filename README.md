@@ -74,6 +74,8 @@ Ornitólogos Invitados: [Dr. Camila Gómez](https://www.birds.cornell.edu/home/s
 
 **El Ciclo Anual de las Aves 3: Reproducción**
 
+Ornitólogo Invitado: [Dr. Gustavo Londoño](https://www.icesi.edu.co/profesores/cv/gustavo-londono), Universidad ICESI.
+
 ### Semana 6, Marzo 2-3
 
 **Ecología Sensorial y Evolución**
