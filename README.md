@@ -64,6 +64,8 @@ Lecturas:
 
 **El Ciclo Anual de las Aves 1: Muda**
 
+Ornitólogo Invitado: [Dr. Ryan Terrill](http://www.ryansterrill.com/), Occidental College & Moore Lab of Zoology.
+
 ### Semana 4, Febrero 16-17
 
 **El Ciclo Anual de las Aves 2: Migración**
