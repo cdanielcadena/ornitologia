@@ -99,6 +99,8 @@ Ornitóloga Invitada: [Dr. Rebecca Safran](https://www.colorado.edu/ebio/rebecca
 
 ### Semana 9, Abril 6-7
 
+**Selección Sexual**
+
 ### Semana 10, Abril 13-14
 
 **La Historia Natural de las Aves - Presentaciones de Estudiantes**
@@ -111,9 +113,15 @@ Ornitólogos Invitados: [Dr. Peter Grant](https://eeb.princeton.edu/people/peter
 
 ### Semana 12, Abril 27-28
 
+**Ecofisiología y Fisiología Evolutiva**
+
 ### Semana 13, Mayo 4-5
 
+**Teoría de Historias de Vida**
+
 ### Semana 14, Mayo 11-12
+
+**Genómica**
 
 ### Semana 15, Mayo 18-19
 
