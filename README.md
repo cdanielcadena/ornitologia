@@ -68,6 +68,8 @@ Lecturas:
 
 **El Ciclo Anual de las Aves 2: Migración**
 
+Ornitólogos Invitados: [Dr. Camila Gómez](https://www.birds.cornell.edu/home/staff/camila-gomez/), Cornell Lab of Ornitology y SELVA y [Dr. Nick Bayly](https://selva.org.co/en/), SELVA.
+
 ### Semana 5, Febrero 23-24
 
 **El Ciclo Anual de las Aves 3: Reproducción**
