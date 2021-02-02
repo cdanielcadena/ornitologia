@@ -28,6 +28,8 @@
 
 Típicamente, cada semana tendremos una clase magistral en la que el profesor introducirá el tema asignado y una clase complementaria que será dedicada a sesiones de discusión, visitas interactivas con investigadores invitados o a presentaciones de estudiantes. Se espera que los estudiantes lean de forma permanente el material asignado y que semanalmente vengan preparados para cada una de las sesiones de aprendizaje activo según instrucciones que serán entregadas oportunamente. Además, los estudiantes completarán algunos talleres de manera independiente y a lo largo del semestre deberán desarrollar un proyecto de investigación en grupo cuyos avances serán presentados en diferentes etapas.
 
+Siempre que sea posible (y cuando los investigadores invitados lo permitan), las clases serán grabadas y quedarán disponibles [acá](https://uniandes-my.sharepoint.com/:f:/g/personal/be_mateus_uniandes_edu_co/En8gqVlInW1PnDFat6XHeA8Bla9cqN-4d_Neq2OQQOXDWQ?e=B50o2Z).
+
 ## Criterios de Evaluación
 
 El curso no tendrá exámenes tradicionales y evaluaremos de la siguiente forma:
