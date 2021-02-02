@@ -86,6 +86,10 @@ Ornitóloga Invitada: [Dr. Mary Caswell Stoddard](https://www.marycstoddard.com/
 
 ### Semana 7, Marzo 9-10
 
+**Sistemas Sociales y Ecología del Comportamiento**
+
+Ornitóloga Invitada: [Dr. Rebecca Safran](https://www.colorado.edu/ebio/rebecca-safran), University of Colorado.
+
 ### Semana 8, Marzo 16-17
 **Discusión sobre Proyectos de Investigación**
 
