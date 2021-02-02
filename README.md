@@ -53,6 +53,8 @@ Lecturas:
 ### Semana 2, Febrero 2-3
 **El Presente y Futuro de un Punto Caliente de Biodiversidad Tropical - Investigación en Ornitología en UniAndes como Ejemplo del Potencial del Estudio de las Aves**
 
+Ornitólogo "Invitado": [Daniel Cadena](https://evolvert.weebly.com/), Universidad de los Andes
+
 Lecturas:
 
 - [Cadena et al. (2019) Extreme genetic structure and dynamic range evolution in a montane passerine bird: implications for tropical diversification](https://academic.oup.com/biolinnean/article/126/3/487/5306478?guestAccessKey=5a96577b-0dcd-4fca-aaf8-71eebf7ab174)
