@@ -58,15 +58,21 @@ Lecturas:
 
 ### Semana 3, Febrero 9-10
 
+**El Ciclo Anual de las Aves 1: Muda**
+
 ### Semana 4, Febrero 16-17
 
+**El Ciclo Anual de las Aves 2: Migración**
+
 ### Semana 5, Febrero 23-24
+
+**El Ciclo Anual de las Aves 3: Reproducción**
+
+### Semana 6, Marzo 2-3
 
 **Ecología Sensorial y Evolución**
 
 Ornitóloga Invitada: [Dr. Mary Caswell Stoddard](https://www.marycstoddard.com/), Princeton University.
-
-### Semana 6, Marzo 2-3
 
 ### Semana 7, Marzo 9-10
 
