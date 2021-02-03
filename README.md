@@ -57,7 +57,7 @@ Ornitólogo "Invitado": [Daniel Cadena](https://evolvert.weebly.com/), Universid
 
 Lecturas:
 
-- [Cadena et al. (2019) Extreme genetic structure and dynamic range evolution in a montane passerine bird: implications for tropical diversification](https://academic.oup.com/biolinnean/article/126/3/487/5306478?guestAccessKey=5a96577b-0dcd-4fca-aaf8-71eebf7ab174)
+- [Cadena et al. (2019). Extreme genetic structure and dynamic range evolution in a montane passerine bird: implications for tropical diversification](https://academic.oup.com/biolinnean/article/126/3/487/5306478?guestAccessKey=5a96577b-0dcd-4fca-aaf8-71eebf7ab174)
 - [Gómez-Bahamón et al. (2020). Speciation associated with shifts in migratory behavior in an avian radiation](https://www.sciencedirect.com/science/article/abs/pii/S0960982220301081)
 
 ### Semana 3, Febrero 9-10
@@ -65,6 +65,12 @@ Lecturas:
 **El Ciclo Anual de las Aves 1: Muda**
 
 Ornitólogo Invitado: [Dr. Ryan Terrill](http://www.ryansterrill.com/), Occidental College & Moore Lab of Zoology.
+
+Lecturas:
+
+- [Terrill (2020). Simultaneous wing molt as a catalyst for the evolution of flightlessness in birds](https://www.journals.uchicago.edu/doi/10.1086/711416)
+
+- [Terrill et al. (2020) Evolution of breeding plumages in birds: A multiple-step pathway to seasonal dichromatism in New World warblers (Aves: Parulidae)](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6606)
 
 ### Semana 4, Febrero 16-17
 
