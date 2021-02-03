@@ -69,7 +69,7 @@ Ornitólogo Invitado: [Dr. Ryan Terrill](http://www.ryansterrill.com/), Occident
 Lecturas:
 
 - [Terrill (2020). Simultaneous wing molt as a catalyst for the evolution of flightlessness in birds](https://www.journals.uchicago.edu/doi/10.1086/711416)
-- [Terrill et al. (2020) Evolution of breeding plumages in birds: A multiple-step pathway to seasonal dichromatism in New World warblers (Aves: Parulidae)](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6606)
+- [Terrill et al. (2020). Evolution of breeding plumages in birds: A multiple-step pathway to seasonal dichromatism in New World warblers (Aves: Parulidae)](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6606)
 
 ### Semana 4, Febrero 16-17
 
