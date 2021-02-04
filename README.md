@@ -80,8 +80,7 @@ Ornitólogos Invitados: [Dr. Camila Gómez](https://www.birds.cornell.edu/home/s
 Lecturas:
 
 - [Bayly et al. (2017) Major stopover regions and migratory bottlenecks for Nearctic-Neotropical landbirds within the Neotropics: a review](https://www.cambridge.org/core/journals/bird-conservation-international/article/major-stopover-regions-and-migratory-bottlenecks-for-nearcticneotropical-landbirds-within-the-neotropics-a-review/D0647630B471D654AD6D5396EFE9C280)
-
-- []
+- [Céspedes & Bayly (2018) Over-winter ecology and relative density of Canada Warbler *Cardellina canadensis* in Colombia: the basis for defining conservation priorities for a sharply declining long-distance migrant](https://www.cambridge.org/core/journals/bird-conservation-international/article/abs/overwinter-ecology-and-relative-density-of-canada-warbler-cardellina-canadensis-in-colombia-the-basis-for-defining-conservation-priorities-for-a-sharply-declining-longdistance-migrant/BF5FA1FCB25848B9487AAC05C099E09C)
 
 ### Semana 5, Febrero 23-24
 
