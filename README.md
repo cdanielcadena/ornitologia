@@ -77,6 +77,12 @@ Lecturas:
 
 Ornitólogos Invitados: [Dr. Camila Gómez](https://www.birds.cornell.edu/home/staff/camila-gomez/), Cornell Lab of Ornitology y SELVA y [Dr. Nick Bayly](https://selva.org.co/en/), SELVA.
 
+Lecturas:
+
+- [Bayly et al. (2017) Major stopover regions and migratory bottlenecks for Nearctic-Neotropical landbirds within the Neotropics: a review](https://www.cambridge.org/core/journals/bird-conservation-international/article/major-stopover-regions-and-migratory-bottlenecks-for-nearcticneotropical-landbirds-within-the-neotropics-a-review/D0647630B471D654AD6D5396EFE9C280)
+
+- []
+
 ### Semana 5, Febrero 23-24
 
 **El Ciclo Anual de las Aves 3: Reproducción**
