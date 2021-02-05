@@ -127,11 +127,13 @@ Ornitólogos Invitados: [Dr. Peter Grant](https://eeb.princeton.edu/people/peter
 
 ### Semana 13, Mayo 4-5
 
-**Teoría de Historias de Vida**
+**Genómica**
+
+Ornitólogo Invitado: [Dr. Scott Edwards](https://edwards.oeb.harvard.edu/people/scott-v-edwards), Harvard University.
 
 ### Semana 14, Mayo 11-12
 
-**Genómica**
+**Teoría de Historias de Vida**
 
 ### Semana 15, Mayo 18-19
 
