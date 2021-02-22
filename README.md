@@ -86,7 +86,6 @@ Actividad complementaria:
 
 En este [enlace](https://github.com/cdanielcadena/ornitologia/blob/main/tarea_migracion.md) encontrarán las instrucciones para la tarea sobre migración que deberán entregar a más tardar el martes 23 de febrero.
 
-
 ### Semana 5, Febrero 23-24
 
 **El Ciclo Anual de las Aves 3: Reproducción**
@@ -103,6 +102,11 @@ Lecturas:
 **Ecología Sensorial y Evolución**
 
 Ornitóloga Invitada: [Dr. Mary Caswell Stoddard](https://www.marycstoddard.com/), Princeton University.
+
+Lecturas:
+
+- [Stoddard et al. (2014). Pattern recognition algorithm reveals how birds evolve individual egg pattern signatures](https://www.nature.com/articles/ncomms5117)
+- [Stoddard et al. (2020). Wild hummingbirds discriminate nonspectral colors](https://www.pnas.org/content/117/26/15112)
 
 ### Semana 7, Marzo 9-10
 
