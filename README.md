@@ -97,6 +97,10 @@ Lecturas:
 - [Ocampo & Londoño (2015). Tropical montane birds have increased nesting success on small river islands](https://academic.oup.com/auk/article/132/1/1/5149133)
 - [Bech et al. (2016). A ‘slow pace of life’ in Australian old‐endemic passerine birds is not accompanied by low basal metabolic rates](https://link.springer.com/article/10.1007/s00360-016-0964-6)
 
+Actividad complementaria:
+
+En este [enlace](https://github.com/cdanielcadena/ornitologia/blob/main/tarea_reproduccion.md) encontrarán las instrucciones para la tarea sobre reproducción que deberán entregar a más tardar el martes 2 de marzo.
+
 ### Semana 6, Marzo 2-3
 
 **Ecología Sensorial y Evolución**
