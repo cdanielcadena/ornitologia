@@ -118,6 +118,8 @@ Lecturas:
 
 Ornitóloga Invitada: [Dr. Rebecca Safran](https://www.colorado.edu/ebio/rebecca-safran), University of Colorado.
 
+*Entrega de propuestas de investigación*
+
 ### Semana 8, Marzo 16-17
 **Discusión sobre Proyectos de Investigación**
 
