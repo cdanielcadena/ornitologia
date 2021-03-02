@@ -129,7 +129,9 @@ Ornitóloga Invitada: [Dr. Rebecca Safran](https://www.colorado.edu/ebio/rebecca
 
 ### Semana 9, Abril 6-7
 
-**Selección Sexual**
+**Comunicación Acústica, Selección Sexual**
+
+Actividad complementaria: Taller sobre análisis bioacústicos.
 
 ### Semana 10, Abril 13-14
 
