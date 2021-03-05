@@ -123,7 +123,7 @@ Lecturas:
 - [Levin et al. (2018). Experimental manipulation of a signal trait reveals complex phenotype-behaviour coordination](https://www.nature.com/articles/s41598-018-33948-0)
 - [Safran et al. (2019). Using networks to connect individual-level reproductive behavior to population patterns](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30089-8)
 
-*Entrega de propuestas de investigación*
+*Entrega de propuestas de investigación* [Instrucciones](https://github.com/cdanielcadena/ornitologia/blob/main/propuesta_investigacion.md)
 
 ### Semana 8, Marzo 16-17
 **Discusión sobre Proyectos de Investigación**
