@@ -4,6 +4,6 @@ El primer paso en la elaboración del proyecto de investigación que los estudia
 
 Recomiendo consultar estas guías sobre [cómo escribir propuestas](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005289) (dice que es para Brasil, pero funciona en general) y [cómo conseguir financiación](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020012). Además, en esta [página](https://www.ogrants.org/) pueden encontrar una iniciativa de ciencia abierta en donde investigadores comparten sus propuestas de investigación - ahí pueden ver varios ejemplos de buenas propuestas.
 
-Cada grupo deberá enviar por correo electrónico al profesor dos archivos de su propuesta en formato pdf. Un archivo incluirá los nombres de los integrantes del grupo y el otro omitirá está información. Fecha y hora límite de entrega: lunes 15 de marzo, 6 am.
+Cada grupo deberá enviar por correo electrónico al profesor dos archivos de su propuesta en formato pdf. Un archivo incluirá los nombres de los integrantes del grupo y el otro omitirá está información. Fecha y hora límite de entrega: **lunes 15 de marzo, 6 am**.
 
 
