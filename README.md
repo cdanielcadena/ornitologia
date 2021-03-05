@@ -118,6 +118,10 @@ Lecturas:
 
 Ornitóloga Invitada: [Dr. Rebecca Safran](https://www.colorado.edu/ebio/rebecca-safran), University of Colorado.
 
+Lecturas:
+
+- [Safran et al. (2019). Using networks to connect individual-level reproductive behavior to population patterns](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30089-8)
+
 *Entrega de propuestas de investigación*
 
 ### Semana 8, Marzo 16-17
