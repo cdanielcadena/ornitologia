@@ -126,11 +126,11 @@ Lecturas:
 *Entrega de propuestas de investigación* [Instrucciones](https://github.com/cdanielcadena/ornitologia/blob/main/propuesta_investigacion.md)
 
 ### Semana 8, Marzo 16-17
-**Discusión sobre Proyectos de Investigación**
+**Discusión sobre Proyectos de Investigación** [Instrucciones](https://github.com/cdanielcadena/ornitologia/blob/main/evaluacion_propuestas.md)
 
-### Marzo 23-24: Semana Santa
+### Marzo 23-24: Semana de Receso
 
-### Marzo 30-31: Semana de Receso
+### Marzo 30-31: Semana Santa
 
 ### Semana 9, Abril 6-7
 
