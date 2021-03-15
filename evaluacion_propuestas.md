@@ -2,7 +2,7 @@
 
 En nuestra clase vamos a recrear el proceso que hacen entidades financiadoras que discuten las propuestas que recibieron para decidir a cuáles apoyan. En nuestro caso, la discusión será atípica pues queremos apoyar todas las propuestas y los autores de éstas estarán presentes en el ejercicio. El objetivo último es que podamos aprender a hacer y a recibir críticas constructivas sobre nuestro trabajo, algo que no es fácil pero que todos los científicos deben enfrentar.
 
-Para empezar, en esta carpeta en SharePoint encontrarán las cinco propuestas que discutiremos. Cada estudiante tiene dos propuestas asignadas según se indica acá.
+Para empezar, en esta carpeta en SharePoint encontrarán las cinco propuestas que discutiremos. Cada estudiante tiene dos propuestas asignadas según se indica [acá](https://github.com/cdanielcadena/ornitologia/blob/main/propuestas_asignadas.png).
 
 La idea es que para cada una de las propuestas que les fueron asignadas hagan lo siguiente. Después de haberlas leído con cuidado, escriban comentarios sobre éstas de manera que resalten los aspectos positivos, los aspectos negativos, comenten sobre la factibilidad del proyecto, sobre si éste cumple o no con las instrucciones de formato y contenido entregadas por el fondo Chapman y cualquier otra cosa que se les ocurra que pueda ir en beneficio del proyecto. En el documento también deberán incluir preguntas que les harían a los autores sobre aspectos que no estaban claros, suposiciones no justificadas, detalles de los métodos, etc.. Los comentarios no deben exceder una página para cada propuesta y deberán estar subidos en un espacio que informaremos oportunamente antes de la clase.
 
