@@ -1,6 +1,6 @@
 # Tarea para el Martes 16 de Marzo
 
-En nuestra clase vamos a recrear el proceso que hacen entidades financiadoras que discuten las propuestas que recibieron para decidir a cuáles apoyan. En nuestro caso, la discusión será atípica pues queremos apoyar todas las propuestas y los autores de éstas estarán presentes en el ejercicio. El objetivo último es que podamos aprender a hacer y a recibir críticas constructivas sobre nuestro trabajo, algo que no es fácil pero que todos los científicos deben enfrentar.
+En nuestra clase vamos a recrear el proceso que hacen entidades financiadoras que discuten las propuestas que recibieron para decidir a cuáles apoyan. En nuestro caso, la discusión será atípica pues queremos apoyar todas las propuestas y los autores de éstas estarán presentes en el ejercicio. El objetivo último es que podamos aprender a hacer y a recibir críticas constructivas sobre nuestro trabajo, algo que no es fácil pero que todos los científicos deben enfrentar de forma profesional y [respetuosa](https://www.sciencemag.org/careers/2021/03/science-relies-constructive-criticism-here-s-how-keep-it-useful-and-respectful).
 
 Para empezar, en esta [carpeta](https://uniandes-my.sharepoint.com/:f:/g/personal/be_mateus_uniandes_edu_co/En8gqVlInW1PnDFat6XHeA8Bla9cqN-4d_Neq2OQQOXDWQ?e=B50o2Z) en SharePoint encontrarán las cinco propuestas que discutiremos. Cada estudiante tiene dos propuestas asignadas, de autores desconocidos, según se indica [acá](https://github.com/cdanielcadena/ornitologia/blob/main/propuestas_asignadas.png).
 
