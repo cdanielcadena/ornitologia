@@ -138,7 +138,7 @@ Lecturas:
 
 Lectura: 
 
--[Austin et al. (2021). Avian vocalisations: the female perspective](https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12713)
+- [Austin et al. (2021). Avian vocalisations: the female perspective](https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12713)
 
 Actividad complementaria: Taller sobre análisis bioacústicos.
 
