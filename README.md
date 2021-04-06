@@ -142,6 +142,10 @@ Actividad complementaria: Taller sobre análisis bioacústicos.
 
 **La Historia Natural de las Aves - Presentaciones de Estudiantes**
 
+Lectura:
+
+- [Ketterson (2020). What do ecology, evolution, and behavior have in common? The organism in the middle](https://www.journals.uchicago.edu/doi/full/10.1086/709699)
+
 ### Semana 11, Abril 20-21
 
 **Especiación**
