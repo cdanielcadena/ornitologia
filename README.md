@@ -146,9 +146,12 @@ Actividad complementaria: Taller sobre análisis bioacústicos.
 
 **La Historia Natural de las Aves - Presentaciones de Estudiantes**
 
-Lectura:
+*"Natural history is the careful observation of nature, wherever nature is"* (Joseph Travis)
+
+Lecturas:
 
 - [Ketterson (2020). What do ecology, evolution, and behavior have in common? The organism in the middle](https://www.journals.uchicago.edu/doi/full/10.1086/709699)
+- [Travis (2020). Where is natural history in ecological, evolutionary, and behavioral Science?](https://www.journals.uchicago.edu/doi/abs/10.1086/708765)
 
 ### Semana 11, Abril 20-21
 
