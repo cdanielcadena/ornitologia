@@ -159,6 +159,12 @@ Lecturas:
 
 Ornitólogos Invitados: [Dr. Peter Grant](https://eeb.princeton.edu/people/peter-grant) & [Dr. Rosemary Grant](https://eeb.princeton.edu/people/b-rosemary-grant), Princeton University.
 
+Lecturas (pueden escoger dos de los tres para leer - o aprovechen y lean todos!):
+
+- [Lamichhaney et al. (2015) Evolution of Darwin’s finches and their beaks revealed by genome sequencing](https://www.nature.com/articles/nature14181)
+- [Almén et al. (2016). Adaptive radiation of Darwin’s finches revisited using whole genome sequencing](https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.201500079)
+- [Lamichhaney et al. (2020) Female-biased gene flow between two species of Darwin’s finches](https://www.nature.com/articles/s41559-020-1183-9)
+
 ### Semana 12, Abril 27-28
 
 **Ecofisiología y Fisiología Evolutiva**
