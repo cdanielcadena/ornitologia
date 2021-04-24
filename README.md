@@ -165,11 +165,22 @@ Lecturas (pueden escoger dos de los tres para leer - o aprovechen y lean todos!)
 - [Almén et al. (2016). Adaptive radiation of Darwin’s finches revisited using whole genome sequencing](https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.201500079)
 - [Lamichhaney et al. (2020) Female-biased gene flow between two species of Darwin’s finches](https://www.nature.com/articles/s41559-020-1183-9)
 
+Actividad complementaria: Taller sobre análisis bioacústicos.
+
 ### Semana 12, Abril 27-28
 
 **Ecofisiología y Fisiología Evolutiva**
 
 Ornitólogo Invitado: [Dr. Zac Cheviron](http://www.chevironlab.org/), University of Montana.
+
+Lecturas:
+
+- [Cheviron et al. (2014) Integrating evolutionary and functional tests of adaptive hypotheses: A case study of altitudinal differentiation in hemoglobin function in an Andean sparrow, *Zonotrichia capensis*](https://academic.oup.com/mbe/article/31/11/2948/2925662)
+- Stager et al. (en evaluación). Temperature heterogeneity correlates with intraspecific variation in physiological flexibility in a small endotherm. *Enviado por correo electrónico*
+
+Bonus:
+
+Vídeo [Mice and Men](https://www.youtube.com/watch?v=WcZoJy4mvk8&feature=emb_logo)
 
 ### Semana 13, Mayo 4-5
 
