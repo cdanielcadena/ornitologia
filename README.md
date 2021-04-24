@@ -178,9 +178,7 @@ Lecturas:
 - [Cheviron et al. (2014) Integrating evolutionary and functional tests of adaptive hypotheses: A case study of altitudinal differentiation in hemoglobin function in an Andean sparrow, *Zonotrichia capensis*](https://academic.oup.com/mbe/article/31/11/2948/2925662)
 - Stager et al. (en evaluación). Temperature heterogeneity correlates with intraspecific variation in physiological flexibility in a small endotherm. *Enviado por correo electrónico*
 
-Bonus:
-
-Vídeo [Mice and Men](https://www.youtube.com/watch?v=WcZoJy4mvk8&feature=emb_logo)
+Bonus: Vídeo [Mice and Men: The Science of an Extreme Animal Athlete](https://www.youtube.com/watch?v=WcZoJy4mvk8&feature=emb_logo)
 
 ### Semana 13, Mayo 4-5
 
