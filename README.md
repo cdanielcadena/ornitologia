@@ -188,8 +188,8 @@ Ornitólogo Invitado: [Dr. Scott Edwards](https://edwards.oeb.harvard.edu/people
 
 Lecturas:
 
--[Hoover et al (2018) Ecology can inform genetics: Disassortative mating contributes to MHC polymorphism in Leach’s storm‐petrels (*Oceanodroma leucorhoa*)](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14801)
--[Corbett et al. (2020) Evidence for the Pleistocene Arc Hypothesis from genome-wide SNPs in a Neotropical dry forest specialist, the Rufous-fronted Thornbird (Furnariidae: *Phacellodomus rufifrons*)](https://onlinelibrary.wiley.com/doi/10.1111/mec.15640)
+- [Hoover et al. (2018) Ecology can inform genetics: Disassortative mating contributes to MHC polymorphism in Leach’s storm‐petrels (*Oceanodroma leucorhoa*)](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14801)
+- [Corbett et al. (2020) Evidence for the Pleistocene Arc Hypothesis from genome-wide SNPs in a Neotropical dry forest specialist, the Rufous-fronted Thornbird (Furnariidae: *Phacellodomus rufifrons*)](https://onlinelibrary.wiley.com/doi/10.1111/mec.15640)
 
 ### Semana 14, Mayo 11-12
 
