@@ -1,4 +1,4 @@
-# Clase del 4 de mayo de 2021
+# clase del 4 de mayo de 2021
 
 Esta semana teníamos planeado conversar sobre estudios de genómica en aves y sobre cómo los trabajos que ornitólogos han desarrollado han sido fundamentales para esta área y para la solución de preguntas clave en ecología y evolución empleando a las aves y sus genomas como modelos de estudio. Sin embargo, abordar un asunto de interés tan marginal para la mayoría de las personas en un momento en que nuestro país vive una crisis social y de derechos humanos de dimensiones incalculables no tiene mayor sentido.
 
