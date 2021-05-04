@@ -184,6 +184,9 @@ Bonus: Vídeo [Mice and Men: The Science of an Extreme Animal Athlete](https://w
 
 **Genómica**
 
+*Información sobre la clase del martes [4 de mayo](https://github.com/cdanielcadena/ornitologia/blob/main/mayo4.md)*
+
+
 Ornitólogo Invitado: [Dr. Scott Edwards](https://edwards.oeb.harvard.edu/people/scott-v-edwards), Harvard University.
 
 Lecturas:
