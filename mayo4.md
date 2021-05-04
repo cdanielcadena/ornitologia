@@ -12,4 +12,4 @@ Finalmente, en la ornitología, como en Cali y Pasto, las movilizaciones sociale
 
 Estas invitaciones, por supuesto, no son nada frente a lo que vivimos. Son sólo una contribución mínima, en estos días oscuros, a que, como lo dijo el Rector, la educación que impartimos en la Universidad sea una “herramienta de transformación, como formación para la democracia y el pensamiento crítico”.
 
-Abrazo para todos.
+Abrazo para todos y todas.
