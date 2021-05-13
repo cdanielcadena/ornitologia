@@ -13,6 +13,6 @@ Como ejercicio, antes de continuar, piense en la siguiente pregunta. Si efectiva
   1.	Lea este [artículo](https://royalsocietypublishing.org/doi/10.1098/rspb.2001.1879) de T. E. Martin que propone una posible solución a la paradoja. 
   2.	Explique en qué consiste la solución y qué evidencia sustenta la hipótesis que plantea el autor.
   3.	¿Cómo puede integrarse la hipótesis de Martin con el [marco conceptual](https://academic.oup.com/auk/article/121/2/289/5561968) desarrollado por el mismo autor que señala la figura siguiente y que discutimos ayer en clase para    comprender la variación latitudinal en las historias de vida de las aves?
-  4.	(Opcional): ¿Se le había ocurrido una explicación diferente a la de Martin a la aparente paradoja?
+  4.	(Opcional): ¿Se le había ocurrido una explicación diferente a la de Martin a la aparente paradoja? ¿Cuál?
 
 <img src='https://github.com/cdanielcadena/ornitologia/blob/main/martin.jpg' width=500/>
