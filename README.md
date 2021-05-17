@@ -207,5 +207,10 @@ En este [enlace](https://github.com/cdanielcadena/ornitologia/blob/main/tarea_hi
 
 Ornitólogo Invitado: [Dr. Peter Marra](http://marralab.com/), Georgetown University.
 
+Lecturas:
+
+- [Rosenberg et al. (2019) Decline of the North American avifauna] (https://science.sciencemag.org/content/366/6461/120)
+- [Loss et al. (2013) The impact of free-ranging domestic cats on wildlife of the United States](https://www.nature.com/articles/ncomms2380)
+
 ### Semana 16, Mayo 25-26
 **Presentaciones de Proyectos de Investigación**
