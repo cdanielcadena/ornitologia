@@ -24,7 +24,7 @@ A pesar de ser una herramienta muy útil para captar la atención del público e
 3.	Cuente una historia. Use su dato estrella y otros datos para construir una narrativa que les ayude a comunicar su “take-home message”. 
 4.	El diseño hace la diferencia. Use elementos que contrasten pero que no saturen la infografía. Use la menor cantidad de texto que pueda y apéguense a una paleta de color limitada para que no sature al observador. Recomendamos usar infografías horizontales que se puedan dividir en secciones.
 
-**Como preparar y compartir su infografía**
+**Cómo preparar y compartir su infografía**
 
 Pueden usar el software que prefieran para preparar sus infografías, pero las siguientes herramientas pueden ser de especial utilidad:
 
