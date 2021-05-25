@@ -212,5 +212,9 @@ Lecturas:
 - [Rosenberg et al. (2019) Decline of the North American avifauna](https://science.sciencemag.org/content/366/6461/120)
 - [Loss et al. (2013) The impact of free-ranging domestic cats on wildlife of the United States](https://www.nature.com/articles/ncomms2380)
 
+Actividad complementaria:
+
+En esta [página](https://github.com/cdanielcadena/ornitologia/blob/main/tarea_conservaci%C3%B3n.md) están las instrucciones para la preparación de la infografía sobre conservación de aves.
+
 ### Semana 16, Mayo 25-26
 **Presentaciones de Proyectos de Investigación**
