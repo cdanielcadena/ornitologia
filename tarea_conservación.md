@@ -31,3 +31,5 @@ Pueden usar el software que prefieran para preparar sus infografías, pero las s
    - [Biorender](https://biorender.com/): recomendada para hacer figuras.
    - [Infogram](https://infogram.com/): permite crear figuras y tienen templetes para hacer infografías.
    - [Piktochart](https://piktochart.com/) y [Canva](https://www.canva.com/): templetes para hacer infografías.
+
+Una vez haya terminado su infografía, compártala a través de un enlace en [Padlet](https://padlet.com/) que estará disponible próximamente en esta página.
