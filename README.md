@@ -1,11 +1,11 @@
 <img src='https://github.com/cdanielcadena/evolucion/blob/master/andes.png'>
 
-# Ornitología
+# Ornitología 2024-10
 ## Aves como Modelos en Ecología, Evolución y Conservación
     
     Departamento de Ciencias Biológicas, Universidad de los Andes 2021-10
     Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)   
-    Horario: martes y miércoles, 3:30-4:45 pm
+    Horario: martes y miércoles, 2:00-3:50 pm
     https://uniandes-edu-co.zoom.us/j/93627990252
 
 ## Objetivos
@@ -26,7 +26,7 @@
 
 ## Metodología
 
-Típicamente, cada semana tendremos una clase magistral en la que el profesor introducirá el tema asignado y una clase complementaria que será dedicada a sesiones de discusión, visitas interactivas con investigadores invitados o a presentaciones de estudiantes. Se espera que los estudiantes lean de forma permanente el material asignado y que semanalmente vengan preparados para cada una de las sesiones de aprendizaje activo según instrucciones que serán entregadas oportunamente. Además, los estudiantes completarán algunos talleres de manera independiente y a lo largo del semestre deberán desarrollar un proyecto de investigación en grupo cuyos avances serán presentados en diferentes etapas.
+Típicamente, cada semana tendremos una clase magistral en la que el profesor introducirá el tema asignado y una clase complementaria que será dedicada a sesiones de discusión o a presentaciones de estudiantes. Se espera que los estudiantes lean de forma permanente el material asignado y que semanalmente vengan preparados para cada una de las sesiones de aprendizaje activo según instrucciones que serán entregadas oportunamente. Además, los estudiantes completarán algunos talleres de manera independiente y a lo largo del semestre deberán desarrollar un proyecto de investigación en grupo cuyos avances serán presentados en diferentes etapas.
 
 Siempre que sea posible (y cuando los investigadores invitados lo permitan), las clases serán grabadas y quedarán disponibles [acá](https://uniandes-my.sharepoint.com/:f:/g/personal/be_mateus_uniandes_edu_co/En8gqVlInW1PnDFat6XHeA8Bla9cqN-4d_Neq2OQQOXDWQ?e=B50o2Z).
 
