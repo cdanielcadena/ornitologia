@@ -4,7 +4,8 @@
 ## Aves como Modelos en Ecología, Evolución y Conservación
     
     Departamento de Ciencias Biológicas, Universidad de los Andes 2021-10
-    Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)   
+    Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)
+    Asistente Graduado: Juan Camilo Ríos (j.rioso@uniandes.edu.co)
     Horario: martes y miércoles, 2:00-3:50 pm
     https://uniandes-edu-co.zoom.us/j/93627990252
 
