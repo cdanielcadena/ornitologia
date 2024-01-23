@@ -20,9 +20,9 @@
 
 -	Habilidad para conseguir, leer, interpretar críticamente y discutir literatura científica.
 
--	Destreza para reconocer, plantear y resolver problemas de investgicación siguiendo el método científico.
+-	Destreza para reconocer, plantear y resolver problemas de investigación siguiendo el método científico.
 
--	Capacidad de divulgar información científica para diversos públicos mediante herramientas audiovisuales.
+-	Capacidad de divulgar información científica para diversos públicos de forma escrita y mediante herramientas audiovisuales.
 
 ## Metodología
 
@@ -32,13 +32,23 @@ Siempre que sea posible (y cuando los investigadores invitados lo permitan), las
 
 ## Criterios de Evaluación
 
-El curso no tendrá exámenes tradicionales y evaluaremos de la siguiente forma:
+El curso no tendrá exámenes tradicionales y evaluaremos *por competencias* de la siguiente forma:
 
-- Comprobaciones de Lectura, Participación en Foros de Discusión (30%) 
-- Propuesta de Investigación de Proyecto (10%)
-- Ejercicio de Crítica de Propuestas de Investigación (5%)
-- Talleres/Tareas (30%)
-- Proyecto de Investigación (25%)
+**Posgrado**
+- Comprobaciones de Lectura, Participación en Foros de Discusión 
+- Artículo de Revisión de Literatura 
+- Propuesta de Investigación (fase 1 y 2)
+- Ejercicio de Crítica de Propuestas de Investigación
+- Proyecto de Investigación
+- Talleres/Tareas  
+
+**Pregrado**
+- Comprobaciones de Lectura, Participación en Foros de Discusión 
+- Propuesta de Investigación (fase 2)
+- Ejercicio de Crítica de Propuestas de Investigación 
+- Talleres/Tareas 
+- Proyecto de Investigación
+- Laboratorio (30%)
 
 ## Contenido
 
