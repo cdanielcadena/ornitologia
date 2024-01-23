@@ -42,7 +42,7 @@ El curso no tendrá exámenes tradicionales y evaluaremos de la siguiente forma:
 
 ## Contenido
 
-### Semana 1, Enero 26-27 
+### Semana 1, Enero 23-24 
 **Introducción al curso, Contribuciones de la Ornitología a la Biología**
 
 Lecturas:
@@ -50,16 +50,15 @@ Lecturas:
 - [Mayr (1984).  The contributions of ornithology to biology](https://academic.oup.com/bioscience/article-abstract/34/4/250/222808)
 - [Konishi et al. (1989). Contributions of bird studies to biology](https://science.sciencemag.org/content/246/4929/465)
 
-### Semana 2, Febrero 2-3
-**El Presente y Futuro de un Punto Caliente de Biodiversidad Tropical - Investigación en Ornitología en UniAndes como Ejemplo del Potencial del Estudio de las Aves**
 
-Ornitólogo "Invitado": [Daniel Cadena](https://evolvert.weebly.com/), Universidad de los Andes
+**El Presente y Futuro de un Punto Caliente de Biodiversidad Tropical - Investigación en Ornitología en UniAndes como Ejemplo del Potencial del Estudio de las Aves**
 
 Lecturas:
 
 - [Cadena et al. (2019). Extreme genetic structure and dynamic range evolution in a montane passerine bird: implications for tropical diversification](https://academic.oup.com/biolinnean/article/126/3/487/5306478?guestAccessKey=5a96577b-0dcd-4fca-aaf8-71eebf7ab174)
 - [Gómez-Bahamón et al. (2020). Speciation associated with shifts in migratory behavior in an avian radiation](https://www.sciencedirect.com/science/article/abs/pii/S0960982220301081)
 
+### Semana 2, Febrero 2-3
 ### Semana 3, Febrero 9-10
 
 **El Ciclo Anual de las Aves 1: Muda**
