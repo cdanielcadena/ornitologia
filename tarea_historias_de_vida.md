@@ -1,4 +1,4 @@
-# Tarea Historias de Vida
+# Taller Historias de Vida
 
 En nuestra clase estudiamos uno de los patrones macroecológicos más evidentes en la biología de las aves: las especies de ambientes tropicales tienen posturas más pequeñas (indicando menor inversión en la reproducción) que las especies de zonas templadas. Como lo discutimos, una de las hipótesis propuestas para explicar este patrón es que las altas tasas de depredación de los nidos en ambientes tropicales limitarían el tamaño de las posturas para reducir la detección por parte de los depredadores.
 
@@ -6,9 +6,9 @@ Si es cierto que las tasas de depredación altas de los nidos han moldeado evolu
 
 <img src='https://github.com/cdanielcadena/ornitologia/blob/main/austin.jpg' width=500/>
 
-Como ejercicio, antes de continuar, piense en la siguiente pregunta. Si efectivamente la depredación de los nidos es una presión evolutiva tan importante en el trópico, ¿por qué entonces tendrían las aves tropicales períodos de incubación largos y tasas de crecimiento de pichones lentas? Intuitivamente uno pensaría que, dada la fuerte presión de depredación en el trópico, la selección favorecería historias de vida en las que los huevos eclosionan en períodos cortos y los pichones crecen rápido, lo que conduciría a un menor tiempo de exposición de los nidos ante los depredadores. ¿Se le ocurre alguna hipótesis para explicar esta aparente paradoja del desarrollo lento de las aves tropicales?
+Como ejercicio, antes de continuar, piense en la siguiente pregunta y discútala con su compañero/a. Si efectivamente la depredación de los nidos es una presión evolutiva tan importante en el trópico, ¿por qué entonces tendrían las aves tropicales períodos de incubación largos y tasas de crecimiento de pichones lentas? Intuitivamente uno pensaría que, dada la fuerte presión de depredación en el trópico, la selección favorecería historias de vida en las que los huevos eclosionan en períodos cortos y los pichones crecen rápido, lo que conduciría a un menor tiempo de exposición de los nidos ante los depredadores. ¿Se le ocurre alguna hipótesis para explicar esta aparente paradoja del desarrollo lento de las aves tropicales?
 
-**Tarea**: 
+**Preguntas**: 
 
   1.	Lea este [artículo](https://royalsocietypublishing.org/doi/10.1098/rspb.2001.1879) de T. E. Martin que propone una posible solución a la paradoja. 
   2.	Explique en qué consiste la solución y qué evidencia sustenta la hipótesis que plantea el autor.
