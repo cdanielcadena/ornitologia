@@ -32,4 +32,4 @@ Pueden usar el software que prefieran para preparar sus infografías, pero las s
    - [Infogram](https://infogram.com/): permite crear figuras y tienen templetes para hacer infografías.
    - [Piktochart](https://piktochart.com/) y [Canva](https://www.canva.com/): templetes para hacer infografías.
 
-Una vez haya terminado su infografía, compártala a través de [Padlet]([https://uniandes.padlet.org/mameneses102/ornitologia](https://padlet.com/jnovoap1/infograf-a-conservaci-n-de-aves-xk867xme0ahnq3d0)).
+Una vez haya terminado su infografía, compártala a través de [Padlet](https://uniandes.padlet.org/mameneses102/ornitologia](https://padlet.com/jnovoap1/infograf-a-conservaci-n-de-aves-xk867xme0ahnq3d0).
