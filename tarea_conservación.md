@@ -9,11 +9,11 @@ Como investigadores y estudiantes de una carrera de ciencias una de sus más imp
 **Objetivos**
 
 1.	Comunicar efectivamente información científica compleja al público general. 
-2.	Afianzar conocimientos sobre la conservación de las aves por medio de la comunicación científica de temas de interés general relacionados a enfermedades infecciosas. 
+2.	Afianzar conocimientos sobre la conservación de las aves por medio de la comunicación científica. 
 
 **Qué hay que hacer**
 
-Como última tarea para nuestro curso, usted deberá preparar una infografía que transmita información científica fiable para el público en general sobre la conservación de las aves. Usted puede escoger hacer su infografía sobre ya sea sobre (1) un ave en peligro de extinción resaltando su estatus, amenazas y medidas de conservación propuestas (e.g. *Cistothorus apolinari*), (2) un lugar de especial interés para la conservación de las aves y que se enfrente a amenazas en la actualidad (e.g. la Sierra Nevada de Santa Marta como sitio de concentración de especies endémicas y de importancia para paradas de aves migratorias), ó (3) algún problema particular que afecte la conservación de las aves (e.g. antiinflamatorios aplicados al ganado que están llevando a aves carroñeras a la extinción). Toda la información que usen debe provenir de fuentes confiables y debe ser citada al final de su infografía correctamente.
+Como última tarea para nuestro curso, usted deberá preparar una infografía que transmita información científica fiable para el público en general sobre la conservación de las aves. Usted puede escoger hacer su infografía sobre ya sea sobre (1) un ave en peligro de extinción resaltando su estatus, amenazas y medidas de conservación propuestas (e.g. *Cistothorus apolinari*), (2) un lugar de especial interés para la conservación de las aves y que se enfrente a amenazas en la actualidad (e.g. la Sierra Nevada de Santa Marta como sitio de concentración de especies endémicas y de importancia para paradas de aves migratorias), ó (3) algún problema particular que afecte la conservación de las aves (e.g. antiinflamatorios aplicados al ganado que están llevando a aves carroñeras a la extinción). Toda la información que usen debe provenir de fuentes confiables y debe ser citada al final de su infografía correctamente. Su infografía deberá enfocarse en *contar alguna historia positiva sobre la conservación de aves*
 
 **Recomendaciones**
 
